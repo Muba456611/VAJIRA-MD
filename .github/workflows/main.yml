@@ -1,5 +1,5 @@
 name: Node.js CI
-VAJIRA-MD=AbknhYIb#KMmHGOJ7ChHu9KSRiDkGfaG8BBk8qjoehY0VMthxRkU
+
 on:
   push:
     branches:
